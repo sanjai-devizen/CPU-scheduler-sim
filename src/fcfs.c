@@ -55,5 +55,5 @@ void simulate_fcfs(process_t* processes, int num_process){
 
 	display_summary(processes, num_process);
     free(ready_queue); 
-    printf("FCFS simulation complete\n");
+    printf("\nFCFS simulation complete\n");
 }

@@ -68,5 +68,5 @@ void simulate_stcf(process_t* processes, int num_process){
     }
 
 	display_summary(processes, num_process);
-    printf("STCF simulation complete !\n");
+    printf("\nSTCF simulation complete !\n");
 }

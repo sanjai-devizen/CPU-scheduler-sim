@@ -63,5 +63,5 @@ void simulate_sjf(process_t* processes, int num_process){
     }
 
 	display_summary(processes, num_process);
-    printf("SJF simulation complete !\n");
+    printf("\nSJF simulation complete !\n");
 }

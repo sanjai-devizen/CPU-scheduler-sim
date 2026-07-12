@@ -68,5 +68,5 @@ void simulate_rr(process_t* processes, int num_processes){
 
 	display_summary(processes, num_processes);
     free(ready_queue);
-    printf("RR simulation completed successfully !\n");
+    printf("\nRR simulation completed successfully !\n");
 }

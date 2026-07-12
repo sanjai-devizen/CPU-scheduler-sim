@@ -63,5 +63,5 @@ void simulate_lottery(process_t* processes, int num_processes){
 	}
 
 	display_summary(processes, num_processes);
-	printf("Lottery scheduling simulation successfully completed !\n");
+	printf("\nLottery scheduling simulation successfully completed !\n");
 }
