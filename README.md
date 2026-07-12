@@ -30,4 +30,4 @@ $ make run
 
 ## Code review 
 
-While the current code does compile and run beautifully, there is still a lot of upgrades to be done on how the process runtime is being displayed till its metric's summary. Currently display.c renders very basic blocks and analytics to showcase the running processes but some of the core algorithms like MLFQ, RR will require a much more intricate render engine to show context switches and priority boosts. For now this project is done but in near future there will be special displays to better exhibit the core algorithms.
+While the current simulator compiles and runs flawlessly, there is still room to expand how process runtimes and metric summaries are visualized. Currently, display.c renders foundational blocks and analytics to track active processes. However, advanced algorithms like MLFQ and Round Robin will eventually require a more intricate rendering engine to accurately visualize rapid context switches and queue-level priority boosts. The core engine is complete, but future updates will focus on building specialized, algorithm-specific terminal displays.
