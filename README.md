@@ -1,6 +1,6 @@
 # 🖥️ CPU Scheduling Engine
 
-![Status: Work in Progress](https://img.shields.io/badge/Status-Work%20in%20Progress-orange?style=for-the-badge)
+![Status: Completed](https://img.shields.io/badge/Status-Work%20in%20Progress-orange?style=for-the-badge)
 ![Language: C](https://img.shields.io/badge/Language-C-blue?style=for-the-badge)
 ![System: Linux](https://img.shields.io/badge/System-Linux-blue?style=for-the-badge)
 
@@ -15,10 +15,10 @@ An educational CPU scheduling simulator designed to mimic real-time process sche
 - [x] **RR** (Round Robin)
 - [x] **MLFQ** (Multi-Level Feedback Queue with global priority boosting and anti-starvation)
 
-### Phase 2: Proportional Share & Advanced Metrics (Upcoming)
+### Phase 2: Proportional Share & Metrics (Upcoming)
 - [x] **Lottery Scheduling** (Randomized ticket-based proportional share)
 - [x] **Stride Scheduling** (Deterministic proportional share)
-- [ ] **Automated Telemetry Engine** (Mass workload generation to benchmark turnaround/response times across all algorithms)
+- [x] **Simple display of process runtime and metrics** (Inspired from Gantt chart analysis to benchmark turnaround/response times across all algorithms)
 
 ## 🚀 Quick Start
 
