@@ -28,5 +28,6 @@ $ make
 $ make run
 ```
 
-### Code review 
+## Code review 
+
 While the current code does compile and run beautifully, there is still a lot of upgrades to be done on how the process runtime is being displayed till its metric's summary. Currently display.c renders very basic blocks and analytics to showcase the running processes but some of the core algorithms like MLFQ, RR will require a much more intricate render engine to show context switches and priority boosts. For now this project is done but in future there will be special displays for to better exhibit the core algorithms.
