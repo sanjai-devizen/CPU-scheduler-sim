@@ -1,6 +1,6 @@
 # 🖥️ CPU Scheduling Engine
 
-![Status: Completed](https://img.shields.io/badge/Status-Work%20in%20Progress-orange?style=for-the-badge)
+![Status: Completed](https://img.shields.io/badge/Status-Completed-orange?style=for-the-badge)
 ![Language: C](https://img.shields.io/badge/Language-C-blue?style=for-the-badge)
 ![System: Linux](https://img.shields.io/badge/System-Linux-blue?style=for-the-badge)
 
