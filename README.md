@@ -30,11 +30,11 @@ $ make run
 
 ## Terminal display design
 
-## Prompt
+### Prompt
 
 <img width="1862" height="564" alt="Screenshot From 2026-07-17 10-33-07" src="https://github.com/user-attachments/assets/545074a6-804d-4ccf-8aa8-7af1989b316f" />
 
-## Terminal Display
+### Terminal Display
 
 <img width="1822" height="1003" alt="Screenshot From 2026-07-17 10-36-21" src="https://github.com/user-attachments/assets/2fa41b8c-2bfa-4094-89de-45af13afc9dd" />
 
